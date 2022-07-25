@@ -1,0 +1,21 @@
+{
+    "posts":[
+        {
+            "id":1,
+            "title": "json server",
+            "author": "charles targema"
+        }
+            ],
+            "coments":[
+                {
+                    "id":1,
+                    "body":"some comments",
+                    "postId":1
+                }
+            ],
+            "profile":[
+                {
+                    "name":"restTest"
+                }
+            ]
+}
