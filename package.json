@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Targemac/REST-API-TEST/issues"
   },
-  "homepage": "https://github.com/Targemac/REST-API-TEST#readme"
+  "homepage": "https://github.com/Targemac/REST-API-TEST#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
